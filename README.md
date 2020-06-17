@@ -8,7 +8,6 @@
 - Semantic HTML;
 - Responsive desktop elements view.
 
-
 ## Bonus:
 
 - Mobile-first implementation;
