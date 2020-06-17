@@ -11,7 +11,7 @@
 ## Bonus:
 
 - Mobile-first implementation;
-- Mobile dropwdown navigation menu
+- Mobile dropdown navigation menu
 - Some interactive mouse-overs on desktop view.
 
 ## How to visualize the landing page:
